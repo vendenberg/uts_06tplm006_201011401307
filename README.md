@@ -1,6 +1,8 @@
 # uts_06tplm006_201011401307
-
-A new Flutter project.
+Wilasta Kurniawan<br>
+201011401307<br>
+06TPLM006<br>
+UTS Nomor 2 Mobile Programming | Mohon maaf bila ada kekurangan
 
 ## Getting Started
 
